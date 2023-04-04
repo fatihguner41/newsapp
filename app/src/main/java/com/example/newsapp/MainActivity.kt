@@ -61,6 +61,6 @@ class MainActivity : AppCompatActivity() {
         //userInfo.put("ad","fatih")
         //users.child("deneme").updateChildren(userInfo as Map<String, Any>)
         //users.child("deneme").addValueEventListener(getuser)
-        var asd=3
+        var asd=4
     }
 }
