@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
         //val userInfo: MutableMap<String, String> = HashMap()
         //userInfo.put("ad","fatih")
         //users.child("deneme").updateChildren(userInfo as Map<String, Any>)
-        users.child("deneme").addValueEventListener(getuser)
-
+        //users.child("deneme").addValueEventListener(getuser)
+        var asd=2
     }
 }
